@@ -1,0 +1,5 @@
+C:\Users\KSWAROOP\Desktop\C#\C# practice\publish\C# practice.exe
+C:\Users\KSWAROOP\Desktop\C#\C# practice\publish\C# practice.dll
+C:\Users\KSWAROOP\Desktop\C#\C# practice\publish\C# practice.deps.json
+C:\Users\KSWAROOP\Desktop\C#\C# practice\publish\C# practice.runtimeconfig.json
+C:\Users\KSWAROOP\Desktop\C#\C# practice\publish\C# practice.pdb
